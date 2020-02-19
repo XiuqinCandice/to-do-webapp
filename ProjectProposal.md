@@ -13,6 +13,7 @@ We are building a simple web-app that allows users to maintain an online task li
 - Reminders
 - Organize tasks into groups and hierarchies
 - Mark certain tasks as important
+- Add search bar 
 
 # Why are we building it
 This project serves as an opportunity to grow our web development, project management, and software engineering skills.
